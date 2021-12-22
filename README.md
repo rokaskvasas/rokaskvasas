@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a [project](https://github.com/rokaskvasas/ToothClinicProject) 
+- 🔭 I’m currently working on a [project](https://github.com/rokaskvasas/DentistClinicProject) 
 - 🌱 I’m currently learning Java | JavaScript | ReactJS | HTML | MySQL | SpringBoot
 - ⚡ I'm currently student at CodeAcademy
 - ⚡ Currently biggest [project is facebook alike website](https://github.com/rokaskvasas/facebook) 
